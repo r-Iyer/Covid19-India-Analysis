@@ -1,6 +1,7 @@
 import requests
 import json
 from dotenv import load_dotenv 
+import os
 key = os.environ.get('key')
 def get_data(containment_wards):
     #address= ', '.join(map(str, containment_wards['Area Name'][i].split(',')[:2])) 

@@ -1,4 +1,4 @@
-Sl no,Date of reporting of the case,Address,Ward,Borough,Local area,Affected Zone,DAYS SINCE REPORTING
+﻿Sl no,Date of reporting of the case,Address,Ward,Borough,Local area,Affected Zone,DAYS SINCE REPORTING
 1,04-06-2020,35 1 KASHIPUR ROAD PO PS KASHIPUR KOLKATA 743462,1,1,Cossipore,Adjacent common passage of affected but including toilet and water source of the slum,14
 2,04-06-2020,28 G RATAN BABU ROAD 700002,1,1,Cossipore,The premises itself,14
 3,04-06-2020,8/A UMA KANTA Sen Lane SAJJAN APPT KOLKATA 700030,4,1,Paikpara,The flat itself,14
@@ -192,8 +192,8 @@ Sl no,Date of reporting of the case,Address,Ward,Borough,Local area,Affected Zon
 191,06-06-2020,1 KANKULIA ROAD BALLYGUNGE KOLKATA 700019,68,8,Ballyganj,Adjacent common passage of affected but including toilet and water source of the slum,12
 192,06-06-2020,19B ALLENBY ROAD CIRCUS ABENUE ALLENBY ROAD L R SARANI CIRCUS AVENUE 700020,70,8,Bhaanipore,The flat itself,12
 193,06-06-2020,19A CHAKRA BERIA ROAD SOUTH BHAWANIPORE KOLKATA 700025,70,8,Bhawanipore,The affected flat/the standalone house,12
-194,06-06-2020,22A Monoharpukur 2nd Lane KOLKATA 700029,85,8,"Monohorpuku
-r",The premises itself,12
+194,06-06-2020,22A Monoharpukur 2nd Lane KOLKATA 700029,85,8,Monohorpuku,,
+"r""",The premises itself,12,,,,,
 195,06-06-2020,32 LAKE TEMPLE ROAD KOLKATA 700029,87,8,Lake,The premises itself,12
 196,06-06-2020,5A SREEMOHAN LANE KALIGHAT 700026,88,8,Kalighat,The premises itself,12
 197,06-06-2020,54/1 TOLLYGAUNGE Road KALIGHAT 700026,88,8,Kalighat,Adjacent common passage of affected but including toilet and water source of the slum,12
@@ -244,8 +244,8 @@ r",The premises itself,12
 242,07-06-2020,1 BY 1B JAYNARAYAN CHANDRA LANE PS MUCHIPARA AMHERST STREET700009,49,5,Sealdah,Adjacent common passage of affected but including toilet and water source of the slum,11
 243,07-06-2020,164/H BEPIN BEHARI GANGULI STREET kolkata - 700012,49,5,Sealdah,The flat itself,11
 244,07-06-2020,29 SANKHARI TOLA STREET KOLKATA700014,50,5,Muchipara,The premises itself,11
-245,07-06-2020,23 CHITTARANJAN AVENUE PRINCEP STREET 700072,46,6,"Chandni
-Chowk",The premises itself,11
+245,07-06-2020,23 CHITTARANJAN AVENUE PRINCEP STREET 700072,46,6,Chandni,,
+"Chowk""",The premises itself,11,,,,,
 246,07-06-2020,KOLUGALLI SIR SAYED AHMED ROAD700014,54,6,Entally,The affected flat/the standalone house,11
 247,07-06-2020,35 LINTON STREET 700014,60,6,Beniapukur,The premises itself,11
 248,07-06-2020,16C PARK LANE 2nd floor Kol - 700016,61,6,Park Street,The flat itself,11
@@ -324,8 +324,8 @@ Chowk",The premises itself,11
 321,08-06-2020,6 kalikrishna tagore street. Kol - 7,24,4,Ganesh Talkies,The premises itself,10
 322,08-06-2020,"6 K K TAGORE STREET, Kol - 7",24,4,Ganesh Talkies,The premises itself,10
 323,08-06-2020,"6 K K TAGORE STREET, Kol - 7",24,4,Ganesh Talkies,The premises itself,10
-324,08-06-2020,44/1 HARITAKI BAGAN LANE BEADON STREET KOLKATA 700006,27,4,"Manicktala
-Bazar",The premises itself,10
+324,08-06-2020,44/1 HARITAKI BAGAN LANE BEADON STREET KOLKATA 700006,27,4,Manicktala,,
+"Bazar""",The premises itself,10,,,,,
 325,08-06-2020,3 chatterjee lane kolkata - 700027,40,5,College Street,The premises itself,10
 326,08-06-2020,"33A, TARA CHAND DUTTA STREET, Kol - 73",43,5,Bowbazar,The flat itself,10
 327,08-06-2020,26 1D SASHI BHUSAN DEY STREET 700012,50,5,Muchipara,The flat itself,10
@@ -349,8 +349,8 @@ Bazar",The premises itself,10
 345,08-06-2020,12/A RAICHARAN PAL LANE TOPSIA 700046,59,7,Tangra,The flat itself,10
 346,08-06-2020,9B COLLIN LANE PARKSTREET KMC 700016,63,7,Park Street,The premises itself,10
 347,08-06-2020,1/A JAMADAR KHAN LANE KARAYA POLICE STATION KOLKATA 700019,65,7,Kareya,Adjacent common passage of affected but including toilet and water source of the slum,10
-348,08-06-2020,"29/C/H/8 PALM AVENU, BALLYGUNGE kolkata - 700019",65,7,"Ballygunge
-Phari",Adjacent common passage of affected but including toilet and water source of the slum,10
+348,08-06-2020,"29/C/H/8 PALM AVENU, BALLYGUNGE kolkata - 700019",65,7,Ballygunge,,
+"Phari""",Adjacent common passage of affected but including toilet and water source of the slum,10,,,,,
 349,08-06-2020,16 TILJALA ROAD GOBINDA KHATICK ROAD KOL 700046,66,7,Tiljala,The affected flat/the standalone house,10
 350,08-06-2020,"49E,TOPSIA ROAD, Kol - 46",66,7,Topsia,The premises itself,10
 351,08-06-2020,"29 A G J KHAN ROAD, Kol - 39",66,7,G J Khan Road,Adjacent common passage of affected but including toilet and water source of the slum,10
@@ -361,8 +361,8 @@ Phari",Adjacent common passage of affected but including toilet and water source
 356,08-06-2020,"STAFF QUARTER, RKMSP, 99, SARAT BOSE ROAD, KOLKATA 700026",84,8,Lansdowne,The concerned building,10
 357,08-06-2020,17T DOVER TERRECE 700019,85,8,Ballygunge,The premises itself,10
 358,08-06-2020,17T DOVER TERRECE 700019,85,8,Ballygunge,The premises itself,10
-359,08-06-2020,33 B MONOHAR PUKUR ROAD,85,8,"Deshapriya
-Park",The affected flat/the standalone house,10
+359,08-06-2020,33 B MONOHAR PUKUR ROAD,85,8,Deshapriya,,
+"Park""",The affected flat/the standalone house,10,,,,,
 360,08-06-2020,17T DOVER TERRECE 700019,85,8,Ballygunge,The premises itself,10
 361,08-06-2020,37 GARCHA ROAD KOLKATA 700019,86,8,Ballygunge,The flat itself,10
 362,08-06-2020,44A TOLLYGUNGE ROAD KALIGHAT 700026,88,8,Mudiali,The affected flat/the standalone house,10
@@ -394,13 +394,13 @@ Park",The affected flat/the standalone house,10
 388,08-06-2020,29 A RAKHAL DAS AUDDY ROAD CHETLA 700027,82,9,Chetla,Adjacent common passage of affected but including toilet and water source of the slum,10
 389,08-06-2020,"34 JUDGES COURT RD, Kol - 27",82,9,Chetla,Adjacent common passage of affected but including toilet and water source of the slum,10
 390,08-06-2020,55 KP ROY LANE PS CHARU MARKET 700070,89,10,Charu Market,Adjacent common passage of affected but including toilet and water source of the slum,10
-391,08-06-2020,357/1/12/1 PRINCE ANWARSHAH ROAD KOLKATA 700068,93,10,"Prince Anwar
-shah",The premises itself,10
+391,08-06-2020,357/1/12/1 PRINCE ANWARSHAH ROAD KOLKATA 700068,93,10,Prince Anwar,,
+"shah""",The premises itself,10,,,,,
 392,08-06-2020,36 1 GOLAM MD SHAH ROAD 700027,94,10,Tollygunge,Adjacent common passage of affected but including toilet and water source of the slum,10
 393,08-06-2020,MRBH TOLLYGUNGE MRBH 700027,94,10,Tollygunge,The concerned building,10
 394,08-06-2020,"P30 Golf Club Road, Kol - 33",94,10,Tollygunge,The premises itself,10
-395,08-06-2020,C 2 EASTERN Plaza P19 29 EAST PURBACHAL CANAL ROAD KOLKATA 700078,106,12,"Kalikapur
-(Abhisikta)",The flat itself,10
+395,08-06-2020,C 2 EASTERN Plaza P19 29 EAST PURBACHAL CANAL ROAD KOLKATA 700078,106,12,Kalikapur,,
+"(Abhisikta)""",The flat itself,10,,,,,
 396,08-06-2020,20 1B RANI SHANKARI LANE KALIGHAT 700026,73,9,Rajdanga,The flat itself,10
 397,08-06-2020,360 PANCHASAYAR KOLKATA 700094,109,12,Anandapur,The premises itself,10
 398,08-06-2020,224 OSTAD AMIR KHAN SARANI HARIDEVPUR Kolkata - 700082,122,13,Haridevpur,The premises itself,10
@@ -454,8 +454,8 @@ shah",The premises itself,10
 446,09-06-2020,2C HAZRA BAGAN LANE 700015,56,7,Ananda Palit,The flat itself,9
 447,09-06-2020,HALDEN AVENUE SILVER SPRING TANGRA 700105,58,7,Tangra,The flat itself,9
 448,09-06-2020,8 DHAPA Road KOLKATA 700105,58,7,Dhapa,The affected flat/the standalone house,9
-449,09-06-2020,5 Camac Street,63,7,"Shakespeare
-Sarani",The flat itself,9
+449,09-06-2020,5 Camac Street,63,7,Shakespeare,,
+"Sarani""",The flat itself,9,,,,,
 450,09-06-2020,20 TOPSIA ROAD,66,7,Topsia,The premises itself,9
 451,09-06-2020,104 Picnic Garden Kol - 700039,66,7,Picnic Garden,The flat itself,9
 452,09-06-2020,PICNIC GARDEN 1ST LANE,66,7,Picnic Garden,The flat itself,9
@@ -494,10 +494,10 @@ Sarani",The flat itself,9
 485,09-06-2020,9 KUNDU LANE BHAWANIPUR P S- KALIGHAT KOLKATA,71,9,Kalighat,The flat itself,9
 486,09-06-2020,244 AJ C BOSE ROAD PS BHAWANIPUR kolkata - 700020,71,9,PTS,The premises itself,9
 487,09-06-2020,28/1 JUDGES COURT ROAD KOLKATA,74,9,Alipore,The flat itself,9
-488,09-06-2020,SO House No. 1 Belvedere Road beside National Library,74,9,"National Library
-Alipore",The flat itself,9
-489,09-06-2020,SO House No. 1 Belvedere Road beside National Library,74,9,"National Library
-Alipore",The flat itself,9
+488,09-06-2020,SO House No. 1 Belvedere Road beside National Library,74,9,National Library,,
+"Alipore""",The flat itself,9,,,,,
+489,09-06-2020,SO House No. 1 Belvedere Road beside National Library,74,9,National Library,,
+"Alipore""",The flat itself,9,,,,,
 490,09-06-2020,13 RAJA SANTOSH ROAD ALIPORE KOL-27 700027 ALIPORE 700027,74,9,Alipore,The flat itself,9
 491,09-06-2020,247AJC BOSE ROAD PTS HESTING PO PS ALIPUR HESTING 700027,77,9,Khidderpore,The premises itself,9
 492,09-06-2020,65 MANSATALA LANE PS WATGUNJ KHIDIRPUR 700027,77,9,Khidderpore,The premises itself,9
@@ -512,8 +512,8 @@ Alipore",The flat itself,9
 501,09-06-2020,"29A/1 CHETLA CENTRAL ROAD, ALIPORE",82,9,Chetla,The premises itself,9
 502,09-06-2020,"57 IZZATULLA PO PS CHARU MARKET CHARU MARKET 700033Actual Address: 36A KALIPRASSANA ROY LANE, kol - 33",89,10,Charu Market,The flat itself,9
 503,09-06-2020,"57 IZZATULLA LANE PO PS CHARUMARKET 700033 Actual Address: 36A KALIPRASSANA ROY LANE, kol - 33",89,10,Charu Market,The flat itself,9
-504,09-06-2020,48/36A Purbachal Main Road Charu Mkt,89,10,"Rabindra
-Sarobar",The flat itself,9
+504,09-06-2020,48/36A Purbachal Main Road Charu Mkt,89,10,Rabindra,,
+"Sarobar""",The flat itself,9,,,,,
 505,09-06-2020,40A DHAKURIA STATION RD 40A DHAKURIA STATION RD 700031,92,10,Dhakuria,The premises itself,9
 506,09-06-2020,22/284 JODHPUR GARDEN KOLKATA 700045,93,10,Jodhpur Garden,The flat itself,9
 507,09-06-2020,South City Tower 2,93,10,South City,The flat itself,9
@@ -560,15 +560,15 @@ Sarobar",The flat itself,9
 548,10-06-2020,25 B SIR GURUDAS ROAD KOLKATA 700011,30,3,Phoolbagan,The Premises Itself,8
 549,10-06-2020,B-13 Flat - 7 Purbasha Housing Manicktala,32,3,Manicktala,The flat itself,8
 550,10-06-2020,151 RAJA RAJENDRA LAL MITRA ROAD 700010,34,3,Beliaghata,The Premises Itself,8
-551,10-06-2020,BELEGHATA ROAD 700010,34,3,"Alochaya
-Cinema Hall",The flat itself,8
+551,10-06-2020,BELEGHATA ROAD 700010,34,3,Alochaya,,
+"Cinema Hall""",The flat itself,8,,,,,
 552,10-06-2020,"76A K G BOSE SARANI PO K G BOSE SARANI Kundu Bagan, Beleghata, Kolkata, West Bengal 700085",35,3,Belighata,The Premises Itself,8
 553,10-06-2020,17 1 SIKDAR PARA STREET BARABAZAR HQ- KOLKATA 700007,23,4,Burrabazar,The Premises Itself,8
 554,10-06-2020,123 2 H 81 A P C ROAD Kolkata - 700006 West Bengal India,27,4,Manicktala,Adjacent common passage of affected but including toilet and water source of the slum,8
 555,10-06-2020,13 A WARDS INSTITUTION STREET BEADON STREET Kol - 700006,28,4,Manicktala,The Premises Itself,8
 556,10-06-2020,13 A WARDS INSTITUTION STREET BEADON STREET Kolkata - 700006 West Bengal India,28,4,Manicktala,The Premises Itself,8
-557,10-06-2020,24 GURU PRASAD CHOWDHURY LANE 700006,38,4,"Amherst
-Street",The Premises Itself,8
+557,10-06-2020,24 GURU PRASAD CHOWDHURY LANE 700006,38,4,Amherst,,
+"Street""",The Premises Itself,8,,,,,
 558,10-06-2020,"72A AKHIL MISTRY LANE, Baithakkhana, Kolkata, West Bengal 700009",49,5,Sealdah,The flat itself,8
 559,10-06-2020,18 CANNAL STREET CANNAL STREET 700027,55,6,Entally,The flat itself,8
 560,10-06-2020,EIGHTEEN IMDAD ALI LANE KOLKATA SIXTEEN DHARAMTALLA DHARAMTALLA 700016,62,6,Taltala,The affected flat/the standalone house,8
@@ -584,22 +584,22 @@ Street",The Premises Itself,8
 570,10-06-2020,40 D chakraberia road bhowanipore,70,8,Bhowanipore,The Premises Itself,8
 571,10-06-2020,"40D,MADAN MOHAN MALVIYA SARANI,KOLAKATA- 700020",70,8,Bhowanipore,The Premises Itself,8
 572,10-06-2020,50 B GURAPADA HALDER ROAD KOLKATA 700026,83,8,Kalighat,The Premises Itself,8
-573,10-06-2020,21 A PARK SIDE ROAD KOLKATA 700026,84,8,"Deshapriya
-Park",The flat itself,8
-574,10-06-2020,1 4 MONOHORPUKUR 2ND LANE,85,8,"Monohar
-Pukur",Adjacent common passage of affected but including toilet and water source of the slum,8
-575,10-06-2020,1/4 MONOHORPUKUR 2ND LANE,85,8,"Monohar
-Pukur",Adjacent common passage of affected but including toilet and water source of the slum,8
-576,10-06-2020,1/4 MONOHORPUKUR 2ND LANE,85,8,"Monohar
-Pukur",Adjacent common passage of affected but including toilet and water source of the slum,8
+573,10-06-2020,21 A PARK SIDE ROAD KOLKATA 700026,84,8,Deshapriya,,
+"Park""",The flat itself,8,,,,,
+574,10-06-2020,1 4 MONOHORPUKUR 2ND LANE,85,8,Monohar,,
+"Pukur""",Adjacent common passage of affected but including toilet and water source of the slum,8,,,,,
+575,10-06-2020,1/4 MONOHORPUKUR 2ND LANE,85,8,Monohar,,
+"Pukur""",Adjacent common passage of affected but including toilet and water source of the slum,8,,,,,
+576,10-06-2020,1/4 MONOHORPUKUR 2ND LANE,85,8,Monohar,,
+"Pukur""",Adjacent common passage of affected but including toilet and water source of the slum,8,,,,,
 577,10-06-2020,7/2B DOVER LANE,85,8,Gariahat,The flat itself,8
-578,10-06-2020,1/4 MONOHORPUKUR 2ND LANE,85,8,"Monohar
-Pukur",Adjacent common passage of affected but including toilet and water source of the slum,8
+578,10-06-2020,1/4 MONOHORPUKUR 2ND LANE,85,8,Monohar,,
+"Pukur""",Adjacent common passage of affected but including toilet and water source of the slum,8,,,,,
 579,10-06-2020,17 CHANDRA MONDAL LANE Kol 700033,88,8,Kalighat,Adjacent common passage of affected but including toilet and water source of the slum,8
 580,10-06-2020,101A KAKULIA ROAD KOLKATA 700029,90,8,Gariahat,The Premises Itself,8
 581,10-06-2020,17 F BALLYGUNGE STATION ROAD KOLKATA KOLKATA 700019,90,8,Gariahat,The Premises Itself,8
-582,10-06-2020,32 PANCHANANTALA ROAD,90,8,"Rabindra
-Sarobar",Adjacent common passage of affected but including toilet and water source of the slum,8
+582,10-06-2020,32 PANCHANANTALA ROAD,90,8,Rabindra,,
+"Sarobar""",Adjacent common passage of affected but including toilet and water source of the slum,8,,,,,
 583,10-06-2020,A J C BOSE RD A J C BOSE RD 700027,71,9,PTS,The concerned building,8
 584,10-06-2020,247A J C BOSE ROAD PS ALIPUR ALIPUR 700027,71,9,PTS,The concerned building,8
 585,10-06-2020,247A J C BOSE ROAD PS ALIPUR HESTINGS 700027,71,9,PTS,The concerned building,8
@@ -638,16 +638,16 @@ Sarobar",Adjacent common passage of affected but including toilet and water sour
 618,10-06-2020,Upohar Panchasayar KOLKATA 700107,109,12,Chak Garia,The flat itself,8
 619,10-06-2020,15A MUKUNDAPUR PURBA JADAVPUR KOLKATA PURBA JADAVPUR 700099,109,12,Dinesh Nagar,Adjacent common passage of affected but including toilet and water source of the slum,8
 620,10-06-2020,27/13 M G Road HARIDEVPUR Kol 700082,115,13,Haridevpur,The Premises itself,8
-621,10-06-2020,3/76E MAHENDRA BANERJEE ROAD,129,14,"Behala
-Rabindra
-Nagar",The Premises itself,8
+621,10-06-2020,3/76E MAHENDRA BANERJEE ROAD,129,14,Behala,,
+Rabindra,,,,,,,
+"Nagar""",The Premises itself,8,,,,,
 622,10-06-2020,RAJABAGAN SAHEB MATH KOLKATA 700018,138,15,Rajabagan,Adjacent common passage of affected but including toilet and water source of the slum,8
 623,10-06-2020,2/32 KAILASH GHOSH ROAD KOLKATA 700008,123,16,Barisha,The Premises itself,8
 624,10-06-2020,PRASANTA ROY ROAD KOLKATA 700008,123,16,Sakherbazar,The Premises itself,8
 625,10-06-2020,57/6A/2 SANTOSH ROY ROAD KOLKATA 700008,123,16,Barisha,The Premises itself,8
 626,10-06-2020,116 D H ROAD TOWN 700063,125,16,Sarsuna,The Premises itself,8
-627,10-06-2020,48 DAKHIN BEHALA ROAD kolkata - 700061 West Bengal India,126,16,"Paschim
-Barisha",The Premises itself,8
+627,10-06-2020,48 DAKHIN BEHALA ROAD kolkata - 700061 West Bengal India,126,16,Paschim,,
+"Barisha""",The Premises itself,8,,,,,
 628,10-06-2020,"79/28,AJCBOSEROAD KOLKATA 700014",53,6,,The Premises itself,8
 629,10-06-2020,"49, NARKEL DANGA NARKEL DANGA 700011",29,3,,The flat itself,8
 630,10-06-2020,NEAR ST GEORGE GATE STRAND LINE FORT WILLIAM 700021,,,,The concerned building,8
@@ -679,8 +679,8 @@ Barisha",The Premises itself,8
 656,11-06-2020,4 A DHAN DEVI KHANNA KANKURGACHI KANKURGACHI 700054,30,3,Kankurgachi,Adjacent common passage of affected but including toilet and water source of the slum,7
 657,11-06-2020,36 2 B RAM KRISHNA SAMADHI ROAD KANKURGACHI TOWN 700054,31,3,Kankurgachi,The flat itself,7
 658,11-06-2020,89 NARKELDANGA MAIN ROAD KOLKATA 700054,31,3,Phoolbagan,The Premises itself,7
-659,11-06-2020,MID BL 3 MERTIN WARDEN LAKE Kolkata - 700067 Flat M 10,32,3,"Bidhanangar
-Railway Station",The flat itself,7
+659,11-06-2020,MID BL 3 MERTIN WARDEN LAKE Kolkata - 700067 Flat M 10,32,3,Bidhanangar,,
+"Railway Station""",The flat itself,7,,,,,
 660,11-06-2020,50/H/9 CHAULPATTY ROAD BELIAGHATA 700010,33,3,Joramandir,Adjacent common passage of affected but including toilet and water source of the slum,7
 661,11-06-2020,50/H/9 CHAULPATTY ROAD BELIAGHATA 700010,33,3,Joramandir,Adjacent common passage of affected but including toilet and water source of the slum,7
 662,11-06-2020,"Anandapuri Samabay Abasan, 24 E DR P N LANE BELEGHATA TOWN 700085",34,3,Belighata,The flat itself,7
@@ -748,8 +748,8 @@ Railway Station",The flat itself,7
 724,11-06-2020,255/56 Deshpran Shasmal Road tallygunge kolkata - 700033,81,10,Tollygunge,The affected flat/the standalone house,7
 725,11-06-2020,76 PRINCE ANWAR SHAH ROAD TOLLYGUNGE 700033,94,10,Tollygunge,The flat itself,7
 726,11-06-2020,5 Regent Estate Jadavpur,96,10,Jadavpur,The flat itself,7
-727,11-06-2020,JADAVPUR EAST ROAD 700032,96,10,"Jadavpur Boys
-School",The Premises itself,7
+727,11-06-2020,JADAVPUR EAST ROAD 700032,96,10,Jadavpur Boys,,
+"School""",The Premises itself,7,,,,,
 728,11-06-2020,NETAJI NAGAR KOLKATA 700040,98,10,Netaji Nagar,The flat itself,7
 729,11-06-2020,2 Lake East Fifth Road,103,11,Santoshpur,The Premises itself,7
 730,11-06-2020,81A P MAJUMDER ROAD KOLKATA 700078,106,12,Kasba,The Premises itself,7
@@ -839,8 +839,8 @@ School",The Premises itself,7
 814,12-06-2020,1/3B HEMCHANDRA STREET KHIDDERPORE 700023,76,9,Khidderpore,The Premises itself,6
 815,12-06-2020,71 DR SUDHIR BOSE ROAD KHIDIRPUR 700023,77,9,Khidderpore,The Premises itself,6
 816,12-06-2020,3E MOMINPUR ROAD KHIDDIRPORE 700023,78,9,Khidderpore,Adjacent common passage of affected but including toilet and water source of the slum,6
-817,12-06-2020,77 GARDEN REACH 700043,80,9,"Hooghly Jute Mill
-Qtr",The Premises itself,6
+817,12-06-2020,77 GARDEN REACH 700043,80,9,Hooghly Jute Mill,,
+"Qtr""",The Premises itself,6,,,,,
 818,12-06-2020,30A R N DAS ROAD KOLKATA 700031,92,10,Dhakuria,The Premises itself,6
 819,12-06-2020,1 S C MULLICK ROAD 700032,93,10,Jadavpur P.S,The Premises itself,6
 820,12-06-2020,15/2 JODHPUR COLONY KOLKATA JODHPUR COLONY 700045,93,10,Jodhpur Park,The Premises itself,6
@@ -901,8 +901,8 @@ Qtr",The Premises itself,6
 875,13-06-2020,59 PATUA TOLA LANE RAJA RAM MOHAN SARANI KOLKATA 700009,40,5,Sealdah,The Premises itself,5
 876,13-06-2020,50 B Mukta Ram Babu Lane Kolkata - 700007 West Bengal India,41,5,Mahajati Sadan,The flat itself,5
 877,13-06-2020,64 CANNING STREET Kolkata - 700001 West Bengal India,42,5,Burrabazar,The flat itself,5
-878,13-06-2020,26 NILMADHAB SEND LANE KOLKATA 700073,44,5,"Muhammad Ali
-Park",Adjacent common passage of affected but including toilet and water source of the slum,5
+878,13-06-2020,26 NILMADHAB SEND LANE KOLKATA 700073,44,5,Muhammad Ali,,
+"Park""",Adjacent common passage of affected but including toilet and water source of the slum,5,,,,,
 879,13-06-2020,16 TARA CHAND DUTTA STREET Kolkata - 700073 West Bengal India,44,5,Bowbazar,The Premises itself,5
 880,13-06-2020,RAJCHANDRA SEN LANE Kolkata - 700009 West Bengal India,49,5,Muchipara,The Premises itself,5
 881,13-06-2020,26/2B BOWBAZAR SHASHI BHUSHAN DEY STREET 700012,50,5,Amherst Street,The flat itself,5
@@ -943,8 +943,8 @@ Park",Adjacent common passage of affected but including toilet and water source 
 916,13-06-2020,13 BAWALI MONDAL ROAD,88,8,Tollygunge,Adjacent common passage of affected but including toilet and water source of the slum,5
 917,13-06-2020,13 BAWALI MONDAL ROAD,88,8,Tollygunge,Adjacent common passage of affected but including toilet and water source of the slum,5
 918,13-06-2020,23 J PANCHANANTALA ROAD RABINDRA SARABAR 700033,90,8,Panchanantala,The Premises itself,5
-919,13-06-2020,APT MEDICAL SERVICES 34B JATIN DAS ROAD 700029,90,8,"Rabindra
-Sarobar",The Premises itself,5
+919,13-06-2020,APT MEDICAL SERVICES 34B JATIN DAS ROAD 700029,90,8,Rabindra,,
+"Sarobar""",The Premises itself,5,,,,,
 920,13-06-2020,PTS KOLKATA PTS KOLKATA 700027,71,9,PTS,The building concerned,5
 921,13-06-2020,PTS KOLKATA PTS KOLKATA 700027,71,9,PTS,The building concerned,5
 922,13-06-2020,247 A J C BOSE ROAD ALIPORE 700027,71,9,PTS,The building concerned,5
@@ -1033,8 +1033,8 @@ Sarobar",The Premises itself,5
 1005,14-06-2020,36 HEM CHANDRA NASKAR ROAD BELEGHATA PS BELEGHATA KOLKATA kolkata - 700010 West Bengal India,33,3,Beleghata,The flat itself,4
 1006,14-06-2020,"24E Dr Panchanan Mitra Lane, Anandapuri Abasan BELEGHATA 700085",34,3,Beleghata,The flat itself,4
 1007,14-06-2020,"24E Dr Panchanan Mitra Lane, Anandapuri Abasan BELEGHATA 700086",34,3,Beleghata,The flat itself,4
-1008,14-06-2020,RASHMONI BAZAR KOLKATA BELIAGHATA,34,3,"Rashmoni
-Bazar",The premises itself,4
+1008,14-06-2020,RASHMONI BAZAR KOLKATA BELIAGHATA,34,3,Rashmoni,,
+"Bazar""",The premises itself,4,,,,,
 1009,14-06-2020,"151 RAJA RAJENDRA LAL MITRA ROAD, GANGA JAMUNA SARAWATI APPT KOLKATA 700010",34,3,Beleghata,The apartment itself,4
 1010,14-06-2020,"151 RAJENDRA LAL MITRA ROAD, GANGA JAMUNA SARASWATI APARTMEN, F-4D, KOLKATA 700010",34,3,Beleghata,The apartment itself,4
 1011,14-06-2020,50 RAM TANU BOSE LANE BEADON STREET KOLKATA 50 RAM TANU BOSE LANE BEADON STREET KOLKATA 700006,26,4,Beadon Street,The premises itself,4
@@ -1065,8 +1065,8 @@ Bazar",The premises itself,4
 1036,14-06-2020,40D CHAKRABERIA ROAD NORTH BHOWANIPORE KOLKATA 700020,72,8,Bhawanipore,The premises itself,4
 1037,14-06-2020,4/1/1E Kali Lane,83,8,Kalighat,The premises itself,4
 1038,14-06-2020,215B KALIGHAT ROAD KOLKATA 700026,83,8,Kalighat,The affected flat/the standalone house,4
-1039,14-06-2020,4 Park Side Near Deshapriyo Park,84,8,"Deshapriyo
-Park",The flat itself,4
+1039,14-06-2020,4 Park Side Near Deshapriyo Park,84,8,Deshapriyo,,
+"Park""",The flat itself,4,,,,,
 1040,14-06-2020,RKMSP 99 SARAT BOSE RD RKMSP 700026,84,8,Kalighat,The concerned building itself,4
 1041,14-06-2020,RKMSP 99 SARAT BOSE RD RKMSP 700026,84,8,Kalighat,The concerned building itself,4
 1042,14-06-2020,RKMSP 99 SARAT BOSE ROAD KOLKATA 700026,84,8,Kalighat,The concerned building itself,4
@@ -1115,8 +1115,8 @@ Park",The flat itself,4
 1085,14-06-2020,9A PARAMHANSA DEB RD kolkata - 700027 West Bengal India,82,9,Chetla,The premises itself,4
 1086,14-06-2020,"754, BL-P NEW ALIPORE 700053",81,10,New Alipore,The premises itself,4
 1087,14-06-2020,14 A DPS ROAD CHARUMARKET TOLLYGUNGE CHARUMARKET 700033,81,10,Charu Market,The premises itself,4
-1088,14-06-2020,55 A PRINCE BAKTIAR SHAH ROAD 700033,89,10,"Rabindra
-Sarabar",Adjacent common passage of affected but including toilet and water source of the slum,4
+1088,14-06-2020,55 A PRINCE BAKTIAR SHAH ROAD 700033,89,10,Rabindra,,
+"Sarabar""",Adjacent common passage of affected but including toilet and water source of the slum,4,,,,,
 1089,14-06-2020,74 1 ROHIM OSTAGAR ROAD KOLKATA 700045,93,10,Jodhpur Park,Adjacent common passage of affected but including toilet and water source of the slum,4
 1090,14-06-2020,"74 D RAHIM OSTAGAR ROAD, Kolkata - 700045 West Bengal India",93,10,Lords More,The premises itself,4
 1091,14-06-2020,17 PRINCE ANWAR SHAH ROAD 700033,94,10,Tollygunge,The premises itself,4
@@ -1130,8 +1130,8 @@ Sarabar",Adjacent common passage of affected but including toilet and water sour
 1099,14-06-2020,2/13 JADAVGORH KOLKATA KOLKATA 700078,105,12,Jadavgarh,The premises itself,4
 1100,14-06-2020,23 RUBY PARK EAST 700078,107,12,Kasba,The flat itself,4
 1101,14-06-2020,29 12D NASKAR PARA ROAD PASCHIM PUTIARY kolkata - 700041 West Bengal India,115,13,Haridevpur,The premises itself,4
-1102,14-06-2020,51 CHANDITALA BRANCH ROAD 700053,116,13,"Behala
-Chanditala",The premises itself,4
+1102,14-06-2020,51 CHANDITALA BRANCH ROAD 700053,116,13,Behala,,
+"Chanditala""",The premises itself,4,,,,,
 1103,14-06-2020,57 1 B L SAHA ROAD KOLKATA 700053,116,13,Behala,The premises itself,4
 1104,14-06-2020,62 KAILASH PANDIT LANE 700053,117,13,Behala,The affected flat/the standalone house,4
 1105,14-06-2020,12 3 R K SARANI PARNASREE PALLY 700060,129,14,Parnasree,The premises itself,4
@@ -1459,8 +1459,8 @@ Chanditala",The premises itself,4
 1427,17-06-2020,31 Tiljala Masjid Bari Lane,66,7,Tiljala,The flat itself,1
 1428,17-06-2020,196B/1B PICNIC GARDEN TILJALA PICNIC GARDEN 700039,67,7,Picnic Garden,The flat itself,1
 1429,17-06-2020,48 BALLYGUNGE PLACE GARIAHAT KOLKATA 700019,68,8,Ballygunge,The premises itself,1
-1430,17-06-2020,52/2B Hazra Kolkata - 700019 West Bengal India,69,8,"Ballygunge
-Phari",The flat itself,1
+1430,17-06-2020,52/2B Hazra Kolkata - 700019 West Bengal India,69,8,Ballygunge,,
+"Phari""",The flat itself,1,,,,,
 1431,17-06-2020,31 ALLENBY ROAD KOLKATA 700020,70,8,Bhawanipore,The affected flat/the standalone house,1
 1432,17-06-2020,1A Asutosh Mukherjee Raod ELGIN APARTMENT 700020,70,8,Bhawanipore,The flat itself,1
 1433,17-06-2020,60/C BHABANIPUR CHAKRABERIA ROAD NORTH 700020,70,8,Bhawanipore,The premises itself,1
